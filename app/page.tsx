@@ -255,12 +255,12 @@ export default function MemorialHomepage() {
           <p className="text-xs text-muted-foreground/70 mt-2">
             Created by{" "}
             <a
-              href="https://waymarkfoundry.com"
+              href="https://github.com/afishydeath"
               target="_blank"
               rel="noopener noreferrer"
               className="hover:text-muted-foreground transition-colors"
             >
-              Waymark Foundry
+              Sam Hogan
             </a>
           </p>
         </div>
