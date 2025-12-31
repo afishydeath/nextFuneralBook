@@ -29,7 +29,7 @@ const serviceItems: ServiceItem[] = [
   {
     id: "song",
     title: "Song",
-    subtitle: "Whenn the Roll is Called Up Yonder",
+    subtitle: "When the Roll is Called Up Yonder",
     time: "unknown",
     type: "hymn",
     content: `1 When the trumpet of the Lord shall sound and time shall be no more,
